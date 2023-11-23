@@ -57,4 +57,8 @@ public class VersionCreateTest {
         //versionService.getCommit();
     }
 
+    @Test
+    public void testThree() {
+        Assertions.assertTrue(false, "Hahaha");
+    }
 }
